@@ -49,4 +49,6 @@ Freelancing: Attracting potential clients by showcasing completed projects.
 
 Professional Growth: Documenting and presenting progress in web development.
 
-OUTPUT:
+OUTPUT:<img width="1609" height="901" alt="Image" src="https://github.com/user-attachments/assets/946c1480-e548-4ac1-b0f9-851ba416873c" />
+
+<img width="1850" height="895" alt="Image" src="https://github.com/user-attachments/assets/da78c9f8-a4d0-405a-ac5d-7f510b219abf" />
